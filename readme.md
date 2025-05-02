@@ -19,7 +19,7 @@ iframe {
 method 2 
 to import chatbot without downloading
 -- add iframe in your main html file.
--- add chatbot's link in iframe's src.
+-- add this link "https://princekumar7827.github.io/chatbot/" in iframe's src.
 -- add these css properties in iframe tag.
 
 iframe {
